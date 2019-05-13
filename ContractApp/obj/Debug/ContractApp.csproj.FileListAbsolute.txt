@@ -1,0 +1,15 @@
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\bin\Debug\ContractApp.exe.config
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\bin\Debug\ContractApp.exe
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\bin\Debug\ContractApp.pdb
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\MainWindow.g.cs
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\App.g.cs
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp_MarkupCompile.cache
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp_MarkupCompile.lref
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\MainWindow.baml
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.g.resources
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.Properties.Resources.resources
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.csproj.GenerateResource.cache
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.exe
+C:\Users\гороховв.CORP\source\repos\ContractApp\ContractApp\obj\Debug\ContractApp.pdb
